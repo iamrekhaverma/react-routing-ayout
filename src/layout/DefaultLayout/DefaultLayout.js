@@ -1,5 +1,5 @@
 import React from 'react';
-import DefaultHeader from './DefaultHeader';
+// import DefaultHeader from './DefaultHeader';
 import {openRoutes} from "../../routes";
 import { Route, Switch } from "react-router-dom";
 

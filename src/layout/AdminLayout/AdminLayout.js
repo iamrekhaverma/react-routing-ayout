@@ -11,7 +11,9 @@ class AdminLayout extends React.Component {
       <div>
         <AdminHeader/>
         <div>
-            This is admin layout
+            This is admin layout<br/>
+            <a href="/users">Go to users page</a><br/>
+            <a href="/home">Go to Home page</a>
           <Switch>
             {dashboardRoutes.map((route, idx) => {
                 return route.component ? (<Route key={idx} path={route.path} exact={route.exact} name={route.name} render={props => (
