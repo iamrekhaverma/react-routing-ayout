@@ -1,19 +1,20 @@
 import React from 'react';
-import AdminHeader from './AdminHeader';
-import {dashboardRoutes} from "../../routes";
+import DefaultHeader from './DefaultHeader';
+import {openRoutes} from "../../routes";
 import { Route, Switch } from "react-router-dom";
 
 
-class AdminLayout extends React.Component {
+class DefaultLayout extends React.Component {
 
   render( ) {
     return (
       <div>
-        <AdminHeader/>
+        {/* <DefaultHeader/> */}
         <div>
-            This is admin layout
+            This is DefaultLayout.
+            <a href="/admin">Link to admin page</a>
           <Switch>
-            {dashboardRoutes.map((route, idx) => {
+            {openRoutes.map((route, idx) => {
                 return route.component ? (<Route key={idx} path={route.path} exact={route.exact} name={route.name} render={props => (
                     <route.component {...props} />
                   )} />)
@@ -26,4 +27,4 @@ class AdminLayout extends React.Component {
   }
 }
 
-export default AdminLayout;
+export default DefaultLayout;

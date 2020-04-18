@@ -5,7 +5,7 @@ import './AdminHeader.css';
 
 const AdminHeader = () => {
   return (
-    <div class="header">
+    <div className="header">
     <h1>Header</h1>
     <p>Admin Header</p>
   </div>
