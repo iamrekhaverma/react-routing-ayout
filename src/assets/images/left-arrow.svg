@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="13px" viewBox="0 0 24 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>left-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Color-Change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add.svg" transform="translate(-581.000000, -63.000000)" fill-rule="nonzero">
+            <g id="left-arrow" transform="translate(581.000000, 58.000000)">
+                <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="right-arrow-copy-2" fill="#3B95CB" points="17.2803 5 16.2197 6.06065 20.93935 10.78035 -2.78888024e-13 10.78035 -2.78888024e-13 12.28035 20.93935 12.28035 16.2197 17 17.2803 18.06065 23.81065 11.5303"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

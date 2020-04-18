@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Color-Change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add.svg" transform="translate(-262.000000, -43.000000)" fill-rule="nonzero">
+            <g id="edit" transform="translate(262.000000, 43.000000)">
+                <circle id="Oval" stroke="#FFFFFF" fill="#0098D6" cx="13" cy="13" r="12.5"></circle>
+                <g id="pencil-edit-button" transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+                    <path d="M6.57766,1.7625 L8.72946,3.91428 L3.28266,9.36108 L1.13208,7.2093 L6.57766,1.7625 Z M10.36226,1.24354 L9.40264,0.28392 C9.03178,-0.08694 8.42958,-0.08694 8.05746,0.28392 L7.13824,1.20314 L9.29004,3.35494 L10.36226,2.28272 C10.6499,1.99506 10.6499,1.53118 10.36226,1.24354 Z M0.006,10.2338 C-0.03316,10.41004 0.12596,10.56796 0.30222,10.5251 L2.70004,9.94372 L0.54946,7.79194 L0.006,10.2338 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>6B208031-8471-4816-8004-7910C098E3C5</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M20.5,0 C9.17619048,0 0,9.17619048 0,20.5 C0,31.8238095 9.17619048,41 20.5,41 C31.8238095,41 41,31.8238095 41,20.5 C41,9.17619048 31.8238095,0 20.5,0 Z" id="path-1"></path>
+        <filter x="-42.7%" y="-37.8%" width="185.4%" height="185.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0150513549 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14.3-Home" transform="translate(-149.000000, -411.000000)" fill-rule="nonzero">
+            <g id="::-Header-::">
+                <g id="icon" transform="translate(149.000000, 411.000000)">
+                    <g id="Group-13">
+                        <g id="Play-Icon">
+                            <g id="Shape" opacity="0.238630022">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M28.0933539,22.1928019 L18.3585183,28.6348534 C16.9469671,29.5752989 15,28.5878311 15,26.9420515 L15,14.0579485 C15,12.4121689 16.9956413,11.4247011 18.3585183,12.3651466 L28.0446798,18.8071981 C29.3102084,19.6065768 29.3102084,21.3934232 28.0933539,22.1928019 Z" id="Path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

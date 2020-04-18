@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>98BF00BE-BAF0-4DFF-BCDF-1241E9FB67D0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-8.0%" y="-33.3%" width="116.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.466666667   0 0 0 0 0.709803922  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Idea-3.1" transform="translate(-101.000000, -514.000000)">
+            <g id="Linkedin-CTA" filter="url(#filter-1)" transform="translate(88.000000, 504.000000)">
+                <g id="linkedin-letters" transform="translate(16.000000, 10.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group" transform="translate(3.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0.21696" y="5.44748" width="3.76864" height="11.31728"></rect>
+                        <path d="M16.35368,6.48124 C15.56204,5.61708 14.515,5.18492 13.2132,5.18492 C12.73356,5.18492 12.29756,5.24392 11.9054,5.362 C11.51336,5.48 11.18224,5.64556 10.91188,5.85876 C10.64168,6.07196 10.42648,6.26988 10.26672,6.45252 C10.1148,6.626 9.96624,6.82808 9.82128,7.05668 L9.82128,5.4474 L6.06388,5.4474 L6.0754,5.99564 C6.08312,6.3612 6.08692,7.48792 6.08692,9.37596 C6.08692,11.26416 6.07932,13.72704 6.06404,16.76484 L9.82128,16.76484 L9.82128,10.44936 C9.82128,10.06116 9.86292,9.75288 9.94684,9.52428 C10.10684,9.1358 10.34832,8.81056 10.67208,8.548 C10.9958,8.28512 11.39728,8.1538 11.87708,8.1538 C12.53164,8.1538 13.01336,8.38028 13.32176,8.83328 C13.63004,9.28624 13.7842,9.91248 13.7842,10.71192 L13.7842,16.76448 L17.54144,16.76448 L17.54144,10.27824 C17.54116,8.61072 17.14556,7.34512 16.35368,6.48124 Z" id="Path"></path>
+                        <path d="M2.12412,2.44249065e-14 C1.49228,2.44249065e-14 0.98032,0.18476 0.58812,0.55392 C0.19596,0.92316 2.58015831e-13,1.38932 2.58015831e-13,1.95284 C2.58015831e-13,2.50848 0.19032,2.97304 0.571,3.346 C0.95156,3.719 1.45412,3.9056 2.0784,3.9056 L2.10124,3.9056 C2.74084,3.9056 3.25672,3.71916 3.64876,3.346 C4.0408,2.97304 4.233,2.50864 4.22544,1.95284 C4.21784,1.38936 4.02356,0.92316 3.643,0.55392 C3.26248,0.1846 2.756,2.44249065e-14 2.12412,2.44249065e-14 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

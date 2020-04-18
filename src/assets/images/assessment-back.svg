@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>CTA</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Color-Change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-656.000000, -515.000000)">
+            <g id="CTA" transform="translate(656.000000, 515.000000)">
+                <rect id="Rectangle" fill="#0098D6" opacity="0.12016369" x="0" y="0" width="60" height="60" rx="4"></rect>
+                <g id="right-arrow" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) translate(18.000000, 18.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <polygon id="back-arrow" fill="#0098D6" fill-rule="nonzero" points="17.2803 5 16.2197 6.06065 20.93935 10.78035 -2.78888024e-13 10.78035 -2.78888024e-13 12.28035 20.93935 12.28035 16.2197 17 17.2803 18.06065 23.81065 11.5303"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

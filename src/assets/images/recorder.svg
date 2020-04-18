@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>recorder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Color-Change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add.svg" transform="translate(-939.000000, -299.000000)">
+            <g id="recorder" transform="translate(939.000000, 299.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="1.5" fill="#0098D6" fill-rule="nonzero" cx="12" cy="12" r="11.25"></circle>
+                <g id="Icons-/-Line-/-Video" transform="translate(3.000000, 3.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="18" height="18"></rect>
+                    <g id="download-(55)" transform="translate(3.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M6.98275882,6.5250001 L0.931034509,6.5250001 C0.416637943,6.5250001 4.52970994e-14,6.10836216 4.52970994e-14,5.5939656 L4.52970994e-14,0.938793118 C4.52970994e-14,0.424396558 0.416637943,0.00775862066 0.931034509,0.00775862066 L6.98275882,0.00775862066 C7.49715538,0.00775862066 7.91379333,0.424396558 7.91379333,0.938793118 L7.91379333,5.5939656 C7.91379333,6.10836216 7.49715538,6.5250001 6.98275882,6.5250001 Z" id="Path"></path>
+                        <path d="M8.84482741,1.86982757 L8.84482741,4.66293101 L10.9140516,6.04272411 C11.2236206,6.24894824 11.6379309,6.02689652 11.6379309,5.65494825 L11.6379309,0.877810329 C11.6379309,0.505862055 11.2236206,0.284275848 10.9140516,0.490499986 L8.84482741,1.86982757 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

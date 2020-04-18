@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>play-sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,0 C5.37142857,0 0,5.37142857 0,12 C0,18.6285714 5.37142857,24 12,24 C18.6285714,24 24,18.6285714 24,12 C24,5.37142857 18.6285714,0 12,0 Z" id="path-1"></path>
+        <filter x="-72.9%" y="-64.6%" width="245.8%" height="245.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0150513549 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Color-Change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add.svg" transform="translate(-810.000000, -290.000000)" fill-rule="nonzero">
+            <g id="play-sm" transform="translate(821.000000, 299.000000)">
+                <g id="Shape" opacity="0.238630022">
+                    <g id="path-1-link">
+                        <g id="path-1">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#3B95CB" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+                <path d="M16.4448901,12.9909084 L10.7464497,16.7618654 C9.92017588,17.3123701 8.7804878,16.7343402 8.7804878,15.770957 L8.7804878,8.229043 C8.7804878,7.26565983 9.94866808,6.68762992 10.7464497,7.2381346 L16.4163979,11.0090916 C17.1571952,11.4770206 17.1571952,12.5229794 16.4448901,12.9909084 Z" id="Path" fill="#0098D6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

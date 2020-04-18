@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>44F293AF-5EEC-435C-AD3D-CDE2F32333BA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M13.12,0 C5.8727619,0 0,5.8727619 0,13.12 C0,20.3672381 5.8727619,26.24 13.12,26.24 C20.3672381,26.24 26.24,20.3672381 26.24,13.12 C26.24,5.8727619 20.3672381,0 13.12,0 Z" id="path-1"></path>
+        <filter x="-43.8%" y="-36.2%" width="187.7%" height="187.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0150513549 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13,4 C8.02857143,4 4,8.02857143 4,13 C4,17.9714286 8.02857143,22 13,22 C17.9714286,22 22,17.9714286 22,13 C22,8.02857143 17.9714286,4 13,4 Z" id="path-3"></path>
+        <filter x="-63.9%" y="-52.8%" width="227.8%" height="227.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0150513549 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.8-Dashboard-CV" transform="translate(-206.000000, -224.000000)" fill-rule="nonzero">
+            <g id="::-Profile-Card-::" transform="translate(150.000000, 166.000000)">
+                <g id="Play-Icon" transform="translate(59.000000, 59.000000)">
+                    <g id="Shape" opacity="0.238630022">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Shape-Copy" opacity="0.5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-3"></use>
+                    </g>
+                    <path d="M17.9797465,14.2033932 L11.7494517,18.3263062 C10.846059,18.9281913 9.6,18.2962119 9.6,17.242913 L9.6,8.99708702 C9.6,7.94378808 10.8772104,7.31180872 11.7494517,7.91369382 L17.9485951,12.0366068 C18.7585334,12.5482091 18.7585334,13.6917909 17.9797465,14.2033932 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
